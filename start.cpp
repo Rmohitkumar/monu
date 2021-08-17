@@ -12,3 +12,6 @@ int main()
      cout << ways(2, 1, 0, 0) << endl;
      return 0;
 }
+
+
+knfiegiwgiwen adddufev oex  c
